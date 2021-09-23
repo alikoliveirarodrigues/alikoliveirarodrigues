@@ -1,5 +1,7 @@
- 👋 Faala pessoa que visita meu perfil, Eu sou o Alik Oliveira Rodrigues
- 👀 Sou desenvolvedor de sistemas apaixonado por Mobile 📱, cervejeiro 🍺 e pratico esportes nas horas vagas ⚽️ 🏋🏻 🚴🏻
+ - 👋 Faala pessoa que visita meu perfil, Eu sou o Alik Oliveira Rodrigues
+ -  Sou desenvolvedor de sistemas apaixonado por Mobile 📱
+ -  cervejeiro 🍺 
+ -  e pratico esportes nas horas vagas ⚽️ 🏋🏻 🚴🏻
 
 
 <!---
